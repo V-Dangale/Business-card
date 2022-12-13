@@ -1,0 +1,29 @@
+
+body{
+    margin: 20px;
+}
+.dp{
+    width: 230px;
+    height: 230px;
+}
+.card{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    margin: 0 auto;
+    width: 580px;
+    padding: 15px;
+    background: #09a2b6;
+    border-radius: 20px;
+    border-bottom: 10px solid #264653;
+    border-top: 10px solid #264653;
+    
+}
+h1{
+    color: #264653;
+    text-shadow: 5px 5px #2222;
+   
+}
+.deets{
+    text-shadow: 2px 2px 5px rgba(2, 34, 71, 0.521);
+}
